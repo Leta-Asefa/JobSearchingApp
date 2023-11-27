@@ -1,0 +1,27 @@
+.hover :hover{
+    border-color: white;
+}
+.noborder{
+    border-color: rgb(49, 49, 179);
+}
+.blackbgcolor{
+    background-color:dodgerblue;
+    color: black;
+}
+.bgcolor{
+    background-color: skyblue;
+    color: black;
+}
+.footer{
+    background-color: royalblue;
+}
+
+
+
+
+
+
+
+
+
+
