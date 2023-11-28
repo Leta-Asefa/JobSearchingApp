@@ -1,5 +1,8 @@
 # JobSearchingApp
-APIs to  -Post Jobs
-         -Search Jobs
-*You can search jobs with any words (it uses MongoDB Atlas feature)
+<pre>
+APIs to  -Post Jobs  <br>
+         -Search Jobs <br>
+         </pre>
+         
+*You can search jobs with any words (it uses MongoDB Atlas search feature)
 
